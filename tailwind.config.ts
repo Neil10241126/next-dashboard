@@ -11,8 +11,8 @@ export default {
   	extend: {
   		colors: {
   			primary: {
-  				'100': '#FF7000',
-  				'500': '#FFF1E6'
+					'100': '#FFF1E6',
+  				'500': '#FF7000'
   			},
   			dark: {
   				'100': '#000000',
